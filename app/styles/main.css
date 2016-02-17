@@ -1,10 +1,11 @@
 #index-banner {
-    background-color: #639ab1;
+    background-image: url("../images/fondHeader.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
 }
+
 #index-banner h1 {
     margin-top: 16px;
 }
@@ -27,7 +28,7 @@
 }
 
 .header {
-    color: #639ab1;
+    color: #026c8b;
     font-weight: 300;
 }
 
@@ -37,13 +38,21 @@
 
 .promo i {
     margin: 40px 0;
-    color: #639ab1;
+    color: #026c8b;
     font-size: 7rem;
     display: block;
 }
 
 .card.promo{
     padding: 20px;
+}
+
+.blue-color{
+    background-color:#026c8b;
+}
+
+.blue-color:hover{
+    background-color:#0abaef;
 }
 
 .card-profil{
@@ -84,7 +93,11 @@
 }
 
 footer.page-footer {
-    background-color: #639ab1;
+     background-image: url("../images/fondHeader.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
 }
 
 
